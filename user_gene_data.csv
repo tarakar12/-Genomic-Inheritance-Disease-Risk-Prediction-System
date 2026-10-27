@@ -1,0 +1,2 @@
+Gene,Expression_A,Expression_B,Mutation_A,Mutation_B,Disease,Probability,Risk_Status
+BRCA1,12.0,15.0,No,Yes,Breast / Ovarian Cancer,0.606,Medium Risk

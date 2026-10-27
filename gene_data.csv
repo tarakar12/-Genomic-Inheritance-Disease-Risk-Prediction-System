@@ -1,0 +1,13 @@
+Gene,Patient_ID,Expression_Level,Disease_Risk
+BRCA1,P001,12.4,High
+TP53,P001,8.9,Medium
+EGFR,P001,15.3,High
+MYC,P001,10.2,Low
+BRCA1,P002,9.8,Medium
+TP53,P002,10.1,Medium
+EGFR,P002,7.5,Low
+MYC,P002,11.4,Low
+BRCA1,P003,16.2,High
+TP53,P003,9.5,Medium
+EGFR,P003,13.8,High
+MYC,P003,14.1,High
